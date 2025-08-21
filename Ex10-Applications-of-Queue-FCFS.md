@@ -13,7 +13,7 @@ To write a C function to calculate the turnaround time of each process given the
 ```
 /*
 Program to find and display the priority of the operator in the given Postfix expression
-Developed by: KVinodini R
+Developed by: Vinodini R
 RegisterNumber:  212223040244
 */
 
